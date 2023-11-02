@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_a7f87feab93143aba9c095fa0f3669eb.ckpt"
+all_model_checkpoint_paths: "model_a7f87feab93143aba9c095fa0f3669eb.ckpt"
